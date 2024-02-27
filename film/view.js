@@ -3,7 +3,7 @@ function render(films) {
     <html lang="en">
     <head>
         <meta charset="UTF-8">
-        <title>NETFLIX</title>
+        <title>Top 10 Movies on Netflix</title>
         <style>
 
         body {
@@ -47,7 +47,7 @@ function render(films) {
         </style>
     </head>
     <body>
-        <div><h1>NETFLIX</h1></div>
+        <div><h1>Top 10 Movies on Netflix</h1></div>
         <div><h2>Global Top 10</h2></div>
         <table>
             <thead>
