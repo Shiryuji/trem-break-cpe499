@@ -1,4 +1,4 @@
-function render(movies) {
+function render(films) {
     return `<!DOCTYPE html>
     <html lang="en">
     <head>

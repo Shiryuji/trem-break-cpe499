@@ -1,23 +1,17 @@
 *{
     align-items: center;
     background-color: rgb(255, 255, 255);
-    
 }
 h1, h2 {
     margin-left: 46%;
 }
 table {
     width: 100%;
-    border-spacing: 0;
 }
 th {
     padding: 10px;
-    background-color: rgb(230, 216, 216);
+    background-color: aqua;
 }
 tr {
     background-color: black;
-    display: table-row;
-}
-tbody tr :hover {
-    background-color: white;
 }
